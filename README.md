@@ -9,6 +9,8 @@
 4. Текст рассказа *О. Генри "Русские соболя"* **(henry_soboly.txt)**
 5. Таблица новостей с lenta.ru **(lenta-ru-news.csv)**
 6. Таблица с предобработаными новостями **(good_text_teg.csv)**
+7. Необходимые библиотеки **(requirements.txt)**
+
 
 Датасеты >2Гб и русскоязычные корпуса w2v >600Мб распологаются на [Гугл-диске](https://drive.google.com/drive/folders/1q1dbX2PJzbIbgO0eKxap9dNHtkMdEgKO?usp=sharing)
 
